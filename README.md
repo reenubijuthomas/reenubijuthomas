@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an enthusiastic software developer eager to contribute to team success through hard work, attention to detail,<br>excellent problem-solving and analytic skills. Motivated to learn, grow and excel in Software Development and Engineering.
+I am an enthusiastic software developer eager to contribute to team success through hard work, attention to detail,<br>excellent problem-solving and analytical skills. Motivated to learn, grow and excel in Software Development and Engineering.
 
 
 ## 🌐 Socials:
